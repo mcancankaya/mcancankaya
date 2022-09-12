@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M. Can</h1>
 <h3 align="center">Junior Software Developer</h3>
 
-- 🔭 I’m currently working on [Kodlama.io Courses](www.kodlama.io/courses)
+- 🔭 I’m currently working on [Kodlama.io Courses](https://kodlama.io/courses)
 
 - 🌱 I’m currently learning **C# - Java Backend**
 
